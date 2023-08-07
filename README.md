@@ -1,0 +1,2 @@
+# AbstractChain
+All in one.
